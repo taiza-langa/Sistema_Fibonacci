@@ -2,7 +2,7 @@
 
 Este repositório contém um programa simples em Java que imprime os primeiros 10 números da Sequência de Fibonacci.
 
-## 📌 Saída Esperada
+## 📖 Saída Esperada
 
 ```
 Sequência de Fibonacci:
